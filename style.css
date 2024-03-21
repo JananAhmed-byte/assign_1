@@ -5,18 +5,12 @@
 
 /* section no.1 start */
 .banner-img {
-  margin-top: 30px;
-  background-image: url("images/Banner\ Image.png");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.726),rgba(0, 0, 0, 0.048)), url("images/Banner\ Image.png");
   height: 100vh;
-  background-size: 74%;
+  background-size: 80% 80%;
   background-repeat: no-repeat;
   background-position: center;
   color: white;
-}
-.gradient-img {
-  position: absolute;
-  top: 18%;
-  left: 13%;
 }
 .banner-tag {
   top: 35%;
@@ -58,4 +52,12 @@
   margin-left: auto;
   margin-right: auto;
   padding-top: 50px;
+}
+/* section no.2 end */
+/* section no.3 start */
+.banner-img2{
+  background-image: url(images/Vectorrr.png);
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
 }
