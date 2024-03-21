@@ -1,0 +1,61 @@
+* {
+  margin: 0px;
+  font-family: "Poppins", sans-serif;
+}
+
+/* section no.1 start */
+.banner-img {
+  margin-top: 30px;
+  background-image: url("images/Banner\ Image.png");
+  height: 100vh;
+  background-size: 74%;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: white;
+}
+.gradient-img {
+  position: absolute;
+  top: 18%;
+  left: 13%;
+}
+.banner-tag {
+  top: 35%;
+  left: 30%;
+  position: absolute;
+}
+.header-tag1 {
+  font-size: 30px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+.header-tag2 {
+  font-size: 50px;
+}
+/* section no.1 end */
+/* section no.2 start */
+.headText1 {
+  font-size: 50px;
+  font-weight: 600;
+  text-align: center;
+  color: red;
+}
+.text1{
+  font-size: 20px;
+  font-weight: 500;
+  text-align: center;
+  color: red;
+}
+.text2{
+  padding-top: 30px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+  color: blue;
+}
+.offer-img{
+  display: block;
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 50px;
+}
