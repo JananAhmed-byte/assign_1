@@ -56,8 +56,9 @@
 /* section no.2 end */
 /* section no.3 start */
 .banner-img2{
-  background-image: url(images/Vectorrr.png);
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.815),rgba(0,0,0,0.048)), url("images/Vectorrr.png");
   height: 100vh;
+  background-size: 80% 80%;
   background-position: center;
   background-repeat: no-repeat;
 }
