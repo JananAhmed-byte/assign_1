@@ -17,13 +17,14 @@
   left: 30%;
   position: absolute;
 }
-.header-tag1 {
+.header-text1 {
   font-size: 30px;
   padding-bottom: 25px;
   text-align: center;
 }
-.header-tag2 {
+.header-text2 {
   font-size: 50px;
+  font-weight: 600;
 }
 /* section no.1 end */
 /* section no.2 start */
@@ -61,4 +62,27 @@
   background-size: 80% 80%;
   background-position: center;
   background-repeat: no-repeat;
+}
+.banner-tag2{
+  position: absolute;
+  top: 220%;
+  left: 20%;
+}
+.header-text3{
+  font-size: 50px;
+  font-weight: 600;
+  color: white;
+}
+.header-text4{
+  font-size: 15px;
+  color: white;
+}
+.btn-1{
+  margin-top: 25px;
+  font-weight: 600;
+  color: red;
+  border: none;
+  padding: 15px 32px;
+  text-decoration: none;
+  border-radius: 5px;
 }
