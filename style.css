@@ -89,7 +89,7 @@
 /* section no.3 end */
 /* section no.4 start */
 .banner-img3{
-  background: linear-gradient(rgb(252, 118, 118), rgba(255,151,151,0));
+  background: linear-gradient(rgba(252, 118, 118, 0.315), rgba(255,151,151,0));
   height: 100vh;
   background-size: 80%;
   background-repeat: no-repeat;
