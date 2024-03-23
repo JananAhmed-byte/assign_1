@@ -79,7 +79,7 @@
 }
 .btn-1{
   margin-top: 25px;
-  font-weight: 600;
+  font-weight: 700;
   color: red;
   border: none;
   padding: 15px 32px;
@@ -95,4 +95,57 @@
   background-repeat: no-repeat;
   background-position: center;
   margin-top: 20px;
+}
+.highlighter-text{
+  position: absolute;
+  top: 310%;
+  left: 37%;
+  font-weight: 600;
+  font-size: 25px;
+  text-align: center;
+}
+.highlighter-text p{
+  padding-top: 15px;
+}
+#text-red{
+  color: red;
+}
+.btn-2{
+  margin-top: 20px;
+  border: none;
+  padding: 16px 32px;
+  border-radius: 8px;
+  background-color: rgb(209, 6, 6);
+  color: white;
+  font-weight: 700;
+  margin-top: 60px;
+}
+/* section no.4 end */
+/* section no.5 start */
+.banner-container{
+  display: flex;
+  margin-top: 10px;
+}
+.banner-tag3 p{
+  padding-top: 15px;
+}
+.header-text5{
+  color: red;
+}
+.header-text6{
+  font-size: 35px;
+  font-weight: 600;
+}
+.header-text7{
+  text-align: justify;
+}
+.banner-tag4 p, img{
+  padding-top: 15px;
+}
+.header-text8{
+  font-size: 30px;
+  font-weight: 600;
+}
+.header-text9{
+  text-align: justify;
 }
